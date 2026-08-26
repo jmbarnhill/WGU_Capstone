@@ -1,0 +1,170 @@
+,Quarterback,Team,Year,Games_Missed,Reason,Injured
+0,Tyrod Taylor,Buffalo Bills,2015,2,sprained MCL in left knee,1
+1,Taylor,Buffalo Bills,2016,1,"coach Rex Ryan fired;
+injured groin",1
+2,Taylor,Buffalo Bills,2017,1,bruised patellar tendon in left knee,1
+3,Josh Allen,Buffalo Bills,2018,4,UCL damage in right elbow,1
+0,Jay Cutler,Miami Dolphins,2017,1,cracked ribs,1
+1,Cutler,Miami Dolphins,2017,1,concussion,1
+2,Ryan Tannehill,Miami Dolphins,2016,20,sprained ACL and MCL in left knee,1
+3,Tannehill,Miami Dolphins,2018,5,sprained right shoulder,1
+4,Tua Tagovailoa,Miami Dolphins,2020,1,jammed left (throwing) thumb,1
+5,Tagovailoa,Miami Dolphins,2021,3,fractured ribs,1
+6,Tagovailoa,Miami Dolphins,2022,2,concussion,1
+7,Tagovailoa,Miami Dolphins,2022,3,concussion,1
+0,Brady,New England Patriots,2015,4,suspended 4 games for role in Deflategate scandal,0
+1,Cam Newton,New England Patriots,2020,1,COVID-19,0
+2,Mac Jones,New England Patriots,2022,3,sprained left ankle,1
+0,Fitzpatrick,New York Jets,2016,1,sprained left knee,1
+1,Sam Darnold,New York Jets,2018,3,strained right foot,1
+2,Darnold,New York Jets,2019,3,mononucleosis,0
+3,Darnold,New York Jets,2020,2,sprained right shoulder,1
+4,Darnold,New York Jets,2020,2,sprained right shoulder,1
+5,Zach Wilson,New York Jets,2021,4,sprained right PCL,1
+6,Wilson,New York Jets,2021,3,bone bruise/torn meniscus in right knee,1
+7,White,New York Jets,2022,2,broken ribs,1
+8,Aaron Rodgers,New York Jets,2023,16,torn left Achilles,1
+0,Joe Flacco,Baltimore Ravens,2015,6,torn left ACL/MCL,1
+1,Lamar Jackson,Baltimore Ravens,2019,1,meaningless game (Ravens had clinched homefield),0
+2,Jackson,Baltimore Ravens,2020,1,COVID-19,0
+3,Jackson,Baltimore Ravens,2021,1,,0
+4,Huntley,Baltimore Ravens,2021,1,COVID-19,0
+5,Jackson,Baltimore Ravens,2021,7,sprained right ankle,1
+6,Huntley,Baltimore Ravens,2022,1,injured right shoulder/wrist,1
+7,Jackson,Baltimore Ravens,2022,5,sprained left PCL,1
+8,Jackson,Baltimore Ravens,2023,1,meaningless game (Ravens had already clinched home field),0
+0,Andy Dalton,Cincinatti Bengals,2015,4,broken right thumb,1
+1,Dalton,Cincinatti Bengals,2018,5,torn ligaments in right thumb,1
+2,Brandon Allen,Cincinatti Bengals,2020,1,injured right knee,1
+3,Joe Burrow,Cincinatti Bengals,2020,6,torn left ACL/MCL,1
+4,Burrow,Cincinatti Bengals,2021,1,meaningless game (Bengals had clinched division),0
+5,Burrow,Cincinatti Bengals,2023,7,torn ligament in right wrist,1
+0,J. McCown,Cleveland Browns,2016,1068,,0
+1,Cody Kessler,Cleveland Browns,2016,1,concussion,1
+2,Robert Griffin III,Cleveland Browns,2016,11,broken bone in left shoulder,1
+3,Baker Mayfield,Cleveland Browns,2021,1,torn labrum in left shoulder,1
+4,Mayfield,Cleveland Browns,2021,1,COVID-19,0
+6,Deshaun Watson,Cleveland Browns,2023,2,bruised right shoulder,1
+7,Watson,Cleveland Browns,2023,1,injured right shoulder,1
+8,Joe Flacco,Cleveland Browns,2023,1,,0
+9,Watson,Cleveland Browns,2023,9,broken bone in right shoulder,1
+0,Roethlisberger,Pittsburgh Steelers,2015,4,sprained MCL,1
+1,Roethlisberger,Pittsburgh Steelers,2016,1,torn left meniscus,1
+2,Roethlisberger,Pittsburgh Steelers,2016,1,meaningless game (Steelers had clinched #3 seed),0
+3,Roethlisberger,Pittsburgh Steelers,2017,1,meaningless game (Steelers had clinched bye),0
+4,Mason Rudolph,Pittsburgh Steelers,2019,1,concussion,1
+5,Roethlisberger,Pittsburgh Steelers,2020,1,meaningless game (Steelers had clinched division),0
+6,Roethlisberger,Pittsburgh Steelers,2021,1,COVID-19,0
+7,Kenny Pickett,Pittsburgh Steelers,2022,1,concussion,1
+0,Trevor Siemian,Denver Broncos,2016,1,separated left shoulder,1
+1,Siemian,Denver Broncos,2016,1,sprained left foot,1
+2,Drew Lock,Denver Broncos,2020,2,strained right rotator cuff,1
+3,Russell Wilson,Denver Broncos,2022,1,strained right hamstring,1
+4,Wilson,Denver Broncos,2022,1,concussion,0
+0,Smith,Kansas City Chiefs,2014,1,lacerated spleen,1
+1,Smith,Kansas City Chiefs,2016,1,"concussion, lacerated ear",1
+2,Smith,Kansas City Chiefs,2017,1,meaningless game (Chiefs had already clinched #4 seed),0
+3,Mahomes,Kansas City Chiefs,2019,2,dislocated right kneecap,1
+4,Mahomes,Kansas City Chiefs,2020,1,meaningless game (Chiefs had already clinched home field),0
+5,Mahomes,Kansas City Chiefs,2023,1,meaningless game (Chiefs had already clinched #3 seed),0
+0,Carr,Las Vegas Raiders,2017,1,transverse process fracture in back,1
+1,Garoppolo,Las Vegas Raiders,2023,1,injured back,1
+0,Justin Herbert,Los Angeles Chargers,2023,4,broken right index finger,1
+0,Hoyer,Houston Texans,2015,1,concussion,1
+1,Hoyer,Houston Texans,2015,2,concussion,1
+2,Deshaun Watson,Houston Texans,2017,9,torn right ACL,1
+3,Watson,Houston Texans,2019,1,"meaningless game
+(Texans had clinched division)",0
+4,Tyrod Taylor,Houston Texans,2021,6,injured left hamstring,1
+0,Andrew Luck,Indianapolis Colts,2015,2,injured right shoulder,1
+1,Luck,Indianapolis Colts,2015,7,lacerated kidney,1
+2,Luck,Indianapolis Colts,2016,1,concussion,1
+3,Luck,Indianapolis Colts,2016,16,offseason shoulder surgery,1
+4,Brissett,Indianapolis Colts,2019,1,sprained left MCL,1
+5,Anthony Richardson,Indianapolis Colts,2023,1,concussion,1
+6,Richardson,Indianapolis Colts,2023,12,sprained right shoulder,1
+7,Richardson,Indianapolis Colts,2024,2,oblique/hip injury,1
+0,Nick Foles,Jacksonville Jaguars,2019,8,broken left clavicle,1
+1,Trevor Lawrence,Jacksonville Jaguars,2023,1,sprained right shoulder,1
+0,Locker,Tennessee Titans,2014,1,injured right thumb,1
+1,Marcus Mariota,Tennessee Titans,2015,2,sprained left MCL,1
+2,Mariota,Tennessee Titans,2015,2,sprained right MCL,1
+3,Mariota,Tennessee Titans,2016,1,broken right fibula,1
+4,Mariota,Tennessee Titans,2017,1,strained left hamstring,1
+5,Mariota,Tennessee Titans,2018,2,pinched nerve in right elbow,1
+6,Mariota,Tennessee Titans,2018,1,neck stinger,1
+7,Ryan Tannehill,Tennessee Titans,2022,2,sprained ankle/stomach illness,1
+8,Tannehill,Tennessee Titans,2022,3,sprained right ankle,1
+9,Will Levis,Tennessee Titans,2023,1,sprained left ankle,1
+10,Levis,Tennessee Titans,2023,1,injured right foot,1
+0,Romo,Dallas Cowboys,2014,1,fractured bone in back,1
+1,Romo,Dallas Cowboys,2015,7,broken left collarbone,1
+2,Andy Dalton,Dallas Cowboys,2020,2,concussion,1
+3,Dak Prescott,Dallas Cowboys,2020,11,broken right ankle,1
+4,Prescott,Dallas Cowboys,2021,1,strained right calf,1
+5,Prescott,Dallas Cowboys,2022,5,broken right thumb,1
+0,Daniel Jones,New York Giants,2019,2,sprained right ankle,1
+1,Jones,New York Giants,2020,1,strained right hamstring,1
+2,Jones,New York Giants,2020,1,strained right hamstring/injured right ankle,1
+3,Jones,New York Giants,2021,6,sprained neck,1
+4,Jones,New York Giants,2022,1,meaningless game (Giants had clinched #6 seed),0
+5,Jones,New York Giants,2023,3,injured neck,1
+6,Jones,New York Giants,2023,8,torn ACL in right knee,1
+0,Sam Bradford,Philadelphia Eagles,2015,2,concussion/injured left shoulder,1
+1,Carson Wentz,Philadelphia Eagles,2017,8,torn ACL in left knee,1
+2,Wentz,Philadelphia Eagles,2018,5,fractured verterbrae in back,1
+3,Jalen Hurts,Philadelphia Eagles,2021,1,sprained left ankle,1
+4,Hurts,Philadelphia Eagles,2021,1,meaningless game (Eagles had clinched wild card berth),0
+5,Hurts,Philadelphia Eagles,2022,2,sprained right shoulder,1
+0,Griffin,Washington Commanders,2014,6,dislocated left ankle,1
+1,Dwayne Haskins,Washington Commanders,2019,1,sprained left ankle,1
+2,Heinicke,Washington Commanders,2021,1,COVID-19,0
+0,Cutler,Chicago Bears,2015,1,strained hamstring,1
+1,Cutler,Chicago Bears,2016,5,sprained right thumb,1
+2,Trubisky,Chicago Bears,2019,1,dislocated left shoulder,1
+3,Justin Fields,Chicago Bears,2021,2,cracked ribs,1
+4,Dalton,Chicago Bears,2021,3,,0
+5,Fields,Chicago Bears,2021,3,injured ankle,1
+6,Fields,Chicago Bears,2022,1,separated left shoulder,1
+7,Fields,Chicago Bears,2022,1,strained hip,1
+8,Fields,Chicago Bears,2023,4,dislocated right thumb,1
+0,Stafford,Detroit Lions,2019,8,fractured bones in back,1
+1,Goff,Detroit Lions,2021,2,COVID-19,0
+0,Rodgers,Green Bay Packers,2017,7,broken right clavicle,1
+1,Rodgers,Green Bay Packers,2017,2,Packers eliminated from playoffs,0
+2,Rodgers,Green Bay Packers,2021,1,COVID-19,0
+3,Love,Green Bay Packers,2024,2,sprained left MCL,1
+0,Teddy Bridgewater,Minnesota Vikings,2014,1,injured left ankle,1
+1,Sam Bradford,Minnesota Vikings,2017,3,sore left knee,1
+2,Kirk Cousins,Minnesota Vikings,2019,1,meaningless game (Vikings had clinched playoff spot),0
+3,Cousins,Minnesota Vikings,2021,1,COVID-19,0
+0,Carson Palmer,Arizona Cardinals,2014,3,injured right shoulder,1
+1,Palmer,Arizona Cardinals,2014,8,torn left ACL,1
+2,Palmer,Arizona Cardinals,2016,1,concussion,1
+3,Kyler Murray,Arizona Cardinals,2021,3,sprained left ankle,1
+4,Murray,Arizona Cardinals,2022,2,strained hamstring,1
+5,Murray,Arizona Cardinals,2022,13,torn left ACL,1
+0,Case Keenum,Los Angeles Rams,2015,2,concussion,1
+1,Jared Goff,Los Angeles Rams,2017,1,Rams had clinched division,0
+2,Matthew Stafford,Los Angeles Rams,2022,1,concussion,1
+3,Stafford,Los Angeles Rams,2022,7,neck/concussion protocol,1
+4,Stafford,Los Angeles Rams,2023,1,sprained right thumb,1
+5,Stafford,Los Angeles Rams,2023,1,largely meaningless game (Rams had clinched wild card),0
+0,Jimmy Garoppolo,San Francisco 49ers,2018,13,torn ACL in left knee,1
+1,Garoppolo,San Francisco 49ers,2020,2,sprained right ankle,1
+2,Garoppolo,San Francisco 49ers,2020,8,sprained right ankle,1
+3,Garoppolo,San Francisco 49ers,2021,1,torn ligament/chipped bone in right thumb,1
+4,Brock Purdy,San Francisco 49ers,2023,1,meaningless game (49ers had already clinched home field),0
+0,Russell Wilson,Seattle Seahawks,2021,3,injured middle finger on right hand,1
+0,Ryan,Atlanta Falcons,2019,1,sprained right ankle,1
+0,Newton,Carolina Panthers,2014,1,car accident,0
+1,Newton,Carolina Panthers,2016,1,concussion,1
+2,Newton,Carolina Panthers,2018,2,sore right shoulder,1
+3,Teddy Bridgewater,Carolina Panthers,2020,1,sprained right MCL,1
+0,Brees,New Orleans Saints,2015,1,bruised right rotator cuff,1
+1,Brees,New Orleans Saints,2018,1,meaningless game (Saints had already clinched homefield),0
+2,Hill,New Orleans Saints,2021,1,COVID-19,0
+3,Jameis Winston,New Orleans Saints,2021,10,torn left ACL,1
+0,J. McCown,Tampa Bay Buccaneers,2014,782,"released;
+Winston drafted #1 overall",0
+1,Jameis Winston,Tampa Bay Buccaneers,2017,3,sprained right shoulder,1
